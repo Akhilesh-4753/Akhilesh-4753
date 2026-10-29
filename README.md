@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="500" width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p2YXc5MXppYWdjN3FlbTJ6ZHViNno2OWdob3BrMnI0Z3NyMDdqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jUEKqJuAfN5Y6Ahsdt/giphy.gif"  />
-</div>
 
 ###
 
