@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Akhilesh P. 👋</h1>
-  <p><strong>Full-Stack Developer | React, Python/Django, ASP.NET Core | ERP &amp; AI-Powered Web Applications</strong></p>
+  <p><strong>Full-Stack Developer | React, Python/Django, ASP.NET Core | SEO | ERP &amp; AI-Powered Web Applications</strong></p>
   <p>📍 Malappuram, Kerala, India</p>
   <p>
     <a href="https://akhileshp.com">🌐 Portfolio (akhileshp.com)</a> ·
